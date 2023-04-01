@@ -1,0 +1,12 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "1. Build the Jenkins BlueOcean Docker Image\r ``` \r docker build -t myjenkins .\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
